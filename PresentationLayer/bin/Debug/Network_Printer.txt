@@ -1,0 +1,14 @@
+Credit Card Information: 
+Credit Card Number = 4321432143214321
+Credit Card Owner Name = asdf
+Merchant Name = asdf
+Expiration Date = 12/18/2021
+Address Line 1 = asdf
+Address Line 2 = asdf
+City = 123
+State Code = AL
+Zipcode = 123
+Country = Afghanistan
+Credit Card Limit = 3000.00
+Credit Card Balance = 3000.00
+Activation Status = True
